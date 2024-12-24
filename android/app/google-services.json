@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317595955878",
+    "project_id": "fir-india-b9178",
+    "storage_bucket": "fir-india-b9178.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317595955878:android:c8cbbc6dfc5a17bc137a67",
+        "android_client_info": {
+          "package_name": "com.example.firebase_india"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxuuYaRRNpi0PV2U1Lus8bacnexOACOyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
